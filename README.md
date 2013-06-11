@@ -1,7 +1,5 @@
 SeleniumTemplates
 =================
-# Setup #
-
 #Step 1 #
 Run 'bundle' in the SeleniumTemplates directory
 
