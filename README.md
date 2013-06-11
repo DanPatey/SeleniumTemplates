@@ -10,7 +10,7 @@ spec/QA/, spec/QA/ipad, spec/QA/iphone, spec/QA/android
 #Step 3 #
 Kickoff tests by running ./script/QA/shorttests.rb or ./script/QA/iphone6.rb
 
-#Arguments #
+#How does it work?#
 Tests are actually run by issuing arguments to parallel_rspec. Arguments
 available are OS, ENVIRONMENT, and BROWSER. For example to run sanity
 tests on Vista in Chrome on your Beta staging environment you would
