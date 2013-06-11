@@ -1,4 +1,0 @@
-class VideoSlideshow < Slideshow
-
-
-end

@@ -1,3 +1,0 @@
-class LiveBlog < Article
-
-end
