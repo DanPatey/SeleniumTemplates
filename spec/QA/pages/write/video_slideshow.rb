@@ -1,0 +1,4 @@
+class VideoSlideshow < Slideshow
+
+
+end

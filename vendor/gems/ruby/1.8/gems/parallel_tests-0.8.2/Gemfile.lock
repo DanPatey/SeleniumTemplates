@@ -1,0 +1,42 @@
+PATH
+  remote: .
+  specs:
+    parallel_tests (0.8.2)
+      parallel
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    builder (3.0.0)
+    cucumber (1.1.4)
+      builder (>= 2.1.2)
+      diff-lcs (>= 1.1.2)
+      gherkin (~> 2.7.1)
+      json (>= 1.4.6)
+      term-ansicolor (>= 1.0.6)
+    diff-lcs (1.1.2)
+    gherkin (2.7.6)
+      json (>= 1.4.6)
+    json (1.6.4)
+    parallel (0.5.16)
+    rake (0.8.7)
+    rspec (2.6.0)
+      rspec-core (~> 2.6.0)
+      rspec-expectations (~> 2.6.0)
+      rspec-mocks (~> 2.6.0)
+    rspec-core (2.6.4)
+    rspec-expectations (2.6.0)
+      diff-lcs (~> 1.1.2)
+    rspec-mocks (2.6.0)
+    term-ansicolor (1.0.7)
+    test-unit (2.4.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cucumber
+  parallel_tests!
+  rake
+  rspec (>= 2.4)
+  test-unit

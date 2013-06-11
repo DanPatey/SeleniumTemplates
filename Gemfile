@@ -1,0 +1,10 @@
+source "http://rubygems.org"
+
+gem "rspec"
+gem "selenium-webdriver"
+gem "parallel_tests"
+gem "yajl-ruby"
+gem "mongo"
+gem "json"
+gem "bson_ext"
+gem "cucumber"
